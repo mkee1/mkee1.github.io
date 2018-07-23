@@ -1,0 +1,72 @@
+/* <style> */
+  body {
+    font-family: 'Arvo', serif;
+    background-color: #D9F9F9;
+    line-height: 1.75;
+  }
+/* </style> */
+h1 {
+  color:#091075 ;
+  zoom: 170%;
+}
+
+h4 {
+    zoom: 125%;
+}
+
+h5 {
+    zoom: 140%;
+}
+
+.fun-Facts{
+  /* color: #916301; */
+  color: #000459;
+  zoom: 125%;
+}
+
+.header-links{
+  color: #1bd5f9;
+  list-style: circle;
+  zoom: 125%;
+}
+
+.hobby-list {
+  /* color:#04bfe0; */
+  color: #091075;
+  zoom: 125%;
+
+}
+
+.bioFont {
+  zoom: 125%;
+}
+
+
+
+
+
+/*
+-->
+<!-- Tab links -->
+<div class="tab">
+ <button class="tablinks" onclick="openTab(event, 'Hobbies')">Hobbies</button>
+ <button class="tablinks" onclick="openTab(event, 'Fun Facts')">Fun Facts</button>
+ <button class="tablinks" onclick="openCity(event, 'Links')">Links</button>
+</div>
+
+<!-- Tab content -->
+<div id="London" class="tabcontent">
+ <h3>London</h3>
+ <p>London is the capital city of England.</p>
+</div>
+
+<div id="Paris" class="tabcontent">
+ <h3>Paris</h3>
+ <p>Paris is the capital of France.</p>
+</div>
+
+<div id="Tokyo" class="tabcontent">
+ <h3>Tokyo</h3>
+ <p>Tokyo is the capital of Japan.</p>
+</div>
+ */
